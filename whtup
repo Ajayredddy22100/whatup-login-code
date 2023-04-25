@@ -1,4 +1,6 @@
-import java.io.*;
+#This is a edited whtuo login page due to the correction
+#i am AWS student in cloud computing in telugu:
+mport java.io.*;
 
 	// Function to demonstrate printing pattern
 	public static void StarRightTriangle(int n)
