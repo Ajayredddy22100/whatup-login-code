@@ -1,7 +1,5 @@
 import java.io.*;
 
-// Java code to demonstrate right star triangle
-public class GeeksForGeeks {
 	// Function to demonstrate printing pattern
 	public static void StarRightTriangle(int n)
 	{
@@ -21,10 +19,7 @@ public class GeeksForGeeks {
 			// end-line
 			System.out.println();
 		}
-	}
-
-	// Driver Function
-	public static void main(String args[])
+	}c void main(String args[])
 	{
 		int k = 5;
 		StarRightTriangle(k);
